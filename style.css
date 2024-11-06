@@ -1,0 +1,13 @@
+th{
+    padding-left:10px;
+    padding-right: 10px;
+
+    grid: 1px;
+}
+table{
+    background-color: aquamarine;
+}
+td{
+    background-color: dimgrey;
+    padding: 5px;
+}
